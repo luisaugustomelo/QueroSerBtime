@@ -11,7 +11,7 @@
 
 ## Requirements
 
-- Node.js 10+
+- Node.js 8+
 
 ## Dependencies
 
@@ -40,7 +40,7 @@ cd <NEW_NAME>
 2. Check Node.js version:
 
 ```bash
-node -v # Should be v10.0.0+
+node -v # Should be v8.0.0+
 ```
 
 If you have [nvm](https://github.com/creationix/nvm) installed, you can run `nvm use` to switch to version 10.
