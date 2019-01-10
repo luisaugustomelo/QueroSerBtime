@@ -3,11 +3,11 @@
 [![Ava](https://img.shields.io/badge/tested%20with-ava-red.svg)](https://www.npmjs.com/package/ava)
 [![GNU Make](https://img.shields.io/badge/Built%20with-GNU%20Make-brightgreen.svg)](https://img.shields.io/badge/Built%20with-GNU%20Make-brightgreen.svg)
 
-> Starter project for building a Node.js server.
+> Starter project for building a Dojo Puzzle in Node.js.
 
 ## Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ruanmartinelli/server-starter-typescript/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/luisaugustomelo/QueroSerBtime/tree/master)
 
 ## Requirements
 
@@ -78,10 +78,6 @@ Write routes, install dependencies, etc.
 ```bash
 npm test
 ```
-
-## Scripts
-
-All useful scripts are present on the Makefile.
 
 ## License
 
