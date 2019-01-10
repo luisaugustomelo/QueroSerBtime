@@ -2,7 +2,7 @@
 
 [English Version](https://github.com/Btime/IWantToBeBtime)
 
-[Descrição da aplicação](https://github.com/luisaugustomelo/QueroSerBtime)
+[Descrição da aplicação](https://github.com/luisaugustomelo/QueroSerBtime/blob/master/DESCRIPTION.md
 
 A Btime é uma startup que está há três anos no mercado, mudando a forma com que as pessoas trabalham. 
 
