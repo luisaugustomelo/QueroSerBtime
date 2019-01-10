@@ -1,7 +1,6 @@
 # dojo-puzzle
 
-[![Build Status](https://travis-ci.org/ruanmartinelli/server-starter-typescript.svg?branch=master)](https://travis-ci.org/ruanmartinelli/server-starter-typescript)
-[![codecov](https://codecov.io/gh/ruanmartinelli/server-starter-typescript/branch/master/graph/badge.svg)](https://codecov.io/gh/ruanmartinelli/server-starter-typescript)
+[![Build Status]]
 [![Ava](https://img.shields.io/badge/tested%20with-ava-red.svg)](https://www.npmjs.com/package/ava)
 [![GNU Make](https://img.shields.io/badge/Built%20with-GNU%20Make-brightgreen.svg)](https://img.shields.io/badge/Built%20with-GNU%20Make-brightgreen.svg)
 
@@ -22,7 +21,7 @@ Main dependencies:
 - npm
 - Node.js
 - atob
-- Ava
+- ava
 - express
 - url-parse
 - valid-url
@@ -34,7 +33,7 @@ Steps to run the repository for the first time:
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/luisaugustomelo/dojopuzzle.git <NEW_NAME>
+git clone https://github.com/luisaugustomelo/QueroSerBtime.git <NEW_NAME>
 
 cd <NEW_NAME>
 ```
