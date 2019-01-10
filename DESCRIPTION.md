@@ -60,11 +60,11 @@ _Some files were omitted for simplicity._
 ```bash
 .
 ├── src
-|  ├── app.js       # Application entry file
 |  ├── css          # Css files
 |  ├── js           # Js files
 |  └── docs         # Docs utilities
 └── test
+├── src app.js       # Application entry file
 ```
 
 ## Develop
