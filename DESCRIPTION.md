@@ -51,6 +51,12 @@ If you have [nvm](https://github.com/creationix/nvm) installed, you can run `nvm
 node app.js
 ```
 
+4. Open Web Application:
+
+```bash
+index.html
+```
+
 _Optional: change the name on the `package.json` file._
 
 ## Folder structure
