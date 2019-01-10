@@ -1,0 +1,30 @@
+{
+  "name": "dojopuzzle-btime",
+  "version": "1.0.0",
+  "description": "dujopuzzle api",
+  "main": "app.js",
+  "scripts": {
+    "test": "NODE_ENV=test ava test/app.js --verbose",
+    "dev": "nodemon app",
+    "lint": "./node_modules/.bin/standard --fix"
+  },
+  "author": "Luis Augusto Melo Rohten",
+  "license": "MIT",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "btoa": "^1.2.1",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "is-url": "^1.2.4",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.9",
+    "url-parse": "^1.4.4",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "ava": "^1.0.1",
+    "supertest": "^3.3.0"
+  }
+}
