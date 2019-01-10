@@ -1,6 +1,5 @@
 # dojo-puzzle
 
-[![Build Status]]
 [![Ava](https://img.shields.io/badge/tested%20with-ava-red.svg)](https://www.npmjs.com/package/ava)
 [![GNU Make](https://img.shields.io/badge/Built%20with-GNU%20Make-brightgreen.svg)](https://img.shields.io/badge/Built%20with-GNU%20Make-brightgreen.svg)
 
@@ -19,7 +18,7 @@
 Main dependencies:
 
 - npm
-- Node.js
+- node.js
 - atob
 - ava
 - express
@@ -49,7 +48,7 @@ If you have [nvm](https://github.com/creationix/nvm) installed, you can run `nvm
 3. Run:
 
 ```bash
-make bootstrap
+node app.js
 ```
 
 _Optional: change the name on the `package.json` file._
@@ -72,16 +71,12 @@ _Some files were omitted for simplicity._
 
 1. Make changes
 
-Write controllers and routes, install dependencies, etc.
+Write routes, install dependencies, etc.
 
-2. Write tests
-
-Remember to use `<>.spec.ts` for test files.
-
-3. Run tests
+2. Run tests
 
 ```bash
-make test
+npm test
 ```
 
 ## Scripts
