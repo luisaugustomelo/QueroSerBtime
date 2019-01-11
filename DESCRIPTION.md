@@ -25,7 +25,36 @@ Main dependencies:
 - url-parse
 - valid-url
 
-## Get started
+## Get started with Docker
+
+Steps to run the repository for the first time:
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/luisaugustomelo/QueroSerBtime.git <NEW_NAME>
+
+cd <NEW_NAME>
+```
+
+2. Giving permission to the bash file:
+
+```bash
+sudo chmod +x ./start.sh # set permission 
+```
+
+3. Run out of root mode:
+
+```bash
+./start.sh # check if docker is installed, otherwise execute apt-get of the docker
+```
+
+4. You need put password of root
+
+The application will start the install mode, execute the docker functions and the browser will open firefox (hopefully it has installed :smile: ).
+
+
+## Get started without Docker
 
 Steps to run the repository for the first time:
 
@@ -49,6 +78,11 @@ If you have [nvm](https://github.com/creationix/nvm) installed, you can run `nvm
 
 ```bash
 node app.js
+```
+ou 
+
+```bash
+npm start
 ```
 
 _Optional: change the name on the `package.json` file._

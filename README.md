@@ -1,8 +1,16 @@
+# [Descrição da Aplicação](id:description)
+
+Instruções para buildar a aplicação [Descrição da aplicação](https://github.com/luisaugustomelo/QueroSerBtime/blob/master/DESCRIPTION.md)
+
+Está aplicação consiste em um ambiente docker, que é startado por meio de um script bash.
+
+ - As dependencias principais e mais podem ser vistas no link acima.
+
+ - Os testes unitários estão contidos no diretório test.
+
 # [Quero ser Btime!](id:title)
 
 [English Version](https://github.com/Btime/IWantToBeBtime)
-
-[Descrição da aplicação](https://github.com/luisaugustomelo/QueroSerBtime/blob/master/DESCRIPTION.md)
 
 A Btime é uma startup que está há três anos no mercado, mudando a forma com que as pessoas trabalham. 
 
