@@ -104,7 +104,7 @@ _Some files were omitted for simplicity._
 |  ├── js           # Js files
 |  └── docs         # Docs utilities
 └── test
-├── src app.js       # Application entry file
+├── app.js       # Application entry file
 ```
 
 ## Develop
